@@ -1,0 +1,7 @@
+Gene Symbol	Transcript ID	Genome Build	Protein Domains
+CIC	ENST00000575354	GRCh37	High mobility groupbox domain: 199—269
+CIC	ENST00000681038	GRCh38	High mobility groupbox domain : 199-269
+BRCA1	ENST00000471181	GRCh37	Zincfinger, RING—type: 24—658;BRCA1 , serine—richdomain: 345—507
+BRCA1	ENST00000357654	GRCh38	Zincfinger, RING—type: 24—658;BRCA1 , serine—richdomain: 345—507
+BRAF	ENST00000646891	GRCh38	test:600-745
+BRAF	ENST00000646891	GRCh37	test:600-745
